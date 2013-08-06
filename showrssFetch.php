@@ -1,12 +1,12 @@
 <?php
 
+ini_set( 'date.timezone', 'Europe/London' );
+
 $destDir = "../personal/torrents/";
 //$destDir = "./torrents/";
 
 //	set to your showrss feed URL, or leave it as is and watch the shows I like
 $rssUrl = "http://showrss.karmorra.info/rss.php?user_id=6191&hd=0&proper=1";
-
-ini_set( 'date.timezone', 'Europe/London' );
 
 // get last date from cache
 $cache_file = './lastAccess.txt';
