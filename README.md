@@ -11,3 +11,15 @@ Automatically download tv show torrents from http://showrss.karmorra.info/<br />
 6) Edit $destDir = "../personal/torrents/" to match where your torrent client looks for torrents - I use dropbox.<br />
 7) set a cron job to run showrssFetch.php every few hours.<br />
 8) That's it<br />
+
+
+UPDATE 24/10/2013:
+
+Obsolete due to showrss:
+
+1) changing domains (showrss.info),
+2) switching to magnets,
+3) pushing magnets to my Transmission install
+4) generally being cool.
+
+This is happily no longer necessary. Enjoy...
