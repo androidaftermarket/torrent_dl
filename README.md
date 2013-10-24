@@ -17,9 +17,9 @@ UPDATE 24/10/2013:
 
 Obsolete due to showrss:
 
-1) changing domains (showrss.info),
-2) switching to magnets,
-3) pushing magnets to my Transmission install
-4) generally being cool.
+1) changing domains (showrss.info),<br />
+2) switching to magnets,<br />
+3) pushing magnets to my Transmission install<br />
+4) generally being cool.<br />
 
 This is happily no longer necessary. Enjoy...
